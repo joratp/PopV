@@ -23,7 +23,7 @@ setup(
         "scvi-tools",
         "OnClass",
         "numpy~=1.19.2",
-        "tensorflow<2.5.0",
+        "tensorflow<=2.5.0",
         "importlib-metadata<2.0,>=1.0",
         "tensorboard!=2.5.0,>=2.2.0",
         "grpcio~=1.32.0",
